@@ -1,0 +1,1 @@
+/home/psidjik/code/mpei/OS-labs-mpei/lab-2/sleep/bed

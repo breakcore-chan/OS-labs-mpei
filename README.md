@@ -1,8 +1,5 @@
-# OS-labs-mpei
-Репозиторий для работ по операционным системам в МЭИ
+# Лабы
 
-![alt text](image-1.png)
+- [Лабораторная работа №1](lab-1/README.md)
 
-![alt text](image.png)
-
-![alt text](image-2.png)
+- [Лабораторная работа №2](lab-2/README.md)
